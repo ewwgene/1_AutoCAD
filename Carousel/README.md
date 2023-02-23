@@ -5,6 +5,8 @@
 ### ![117.jpg](https://ewwgene.github.io/AutoCAD_Projects/117.jpg)
 ### ![119.jpg](https://ewwgene.github.io/AutoCAD_Projects/119.jpg)
 ### ![121.jpg](https://ewwgene.github.io/AutoCAD_Projects/121.jpg)
+### ![123.jpg](https://ewwgene.github.io/AutoCAD_Projects/123.jpg)
+### ![124.jpg](https://ewwgene.github.io/AutoCAD_Projects/124.jpg)
 ### ![200.jpg](https://ewwgene.github.io/AutoCAD_Projects/Making/200.jpg)
 ### ![201.jpg](https://ewwgene.github.io/AutoCAD_Projects/Making/201.jpg)
 ### ![203.jpg](https://ewwgene.github.io/AutoCAD_Projects/Making/203.jpg)
