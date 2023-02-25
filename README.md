@@ -1,9 +1,9 @@
 
 # [ewwgene.github.io](https://ewwgene.github.io/)
-### AutoCAD_Projects. — _DESIGN SERIES._
+### /AutoCAD_Projects. — _DESIGN SERIES._
 [![AutoCAD_Projects](/100.jpg)](https://ewwgene.github.io/AutoCAD_Projects/Carousel)<a id="110" href="https://ewwgene.github.io/AutoCAD_Projects/Carousel/#110"><img src="https://ewwgene.github.io/AutoCAD_Projects/110.jpg" height="66"></a> <a id="113" href="https://ewwgene.github.io/AutoCAD_Projects/Carousel/#113"><img src="https://ewwgene.github.io/AutoCAD_Projects/113.jpg" height="66"></a> <a id="115" href="https://ewwgene.github.io/AutoCAD_Projects/Carousel/#115"><img src="https://ewwgene.github.io/AutoCAD_Projects/115.jpg" height="66"></a> <a id="117" href="https://ewwgene.github.io/AutoCAD_Projects/Carousel/#117"><img src="https://ewwgene.github.io/AutoCAD_Projects/117.jpg" height="66"></a> <a id="119" href="https://ewwgene.github.io/AutoCAD_Projects/Carousel/#119"><img src="https://ewwgene.github.io/AutoCAD_Projects/119.jpg" height="66"></a> <a id="121" href="https://ewwgene.github.io/AutoCAD_Projects/Carousel/#121"><img src="https://ewwgene.github.io/AutoCAD_Projects/121.jpg" height="66"></a> <a id="123" href="https://ewwgene.github.io/AutoCAD_Projects/Carousel/#123"><img src="https://ewwgene.github.io/AutoCAD_Projects/123.jpg" height="66"></a> <a id="124" href="https://ewwgene.github.io/AutoCAD_Projects/Carousel/#124"><img src="https://ewwgene.github.io/AutoCAD_Projects/124.jpg" height="66"></a> 
-<a id="text"></a>
-[_`SOLID_PINE_WOOD`_](https://ewwgene.github.io) [_`PLASTER`_](https://ewwgene.github.io) 
+
+<a id="text"></a>[_`SOLID_PINE_WOOD`_](https://ewwgene.github.io) [_`PLASTER`_](https://ewwgene.github.io) 
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
