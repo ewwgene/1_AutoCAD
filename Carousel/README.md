@@ -42,5 +42,3 @@
 <a id="337"></a> ![337.jpg](https://ewwgene.github.io/AutoCAD_Projects/337.jpg)
 <a id="339"></a> ![339.jpg](https://ewwgene.github.io/AutoCAD_Projects/339.jpg)
 
-
-### [ABOUT/](https://ewwgene.github.io/) 
