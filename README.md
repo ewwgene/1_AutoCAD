@@ -18,4 +18,4 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 _`DESIGN SERIES`_ _`SCULPTURE`_ 
 ### [ABOUT/](https://ewwgene.github.io/)
- ### [MAIL_TO:](mailto:r0cam@me.com) 
+### [MAIL_TO:](mailto:r0cam@me.com)
